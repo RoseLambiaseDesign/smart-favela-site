@@ -375,9 +375,9 @@ export default function SmartFavelaSite() {
       <section id="formulario" className="mx-auto max-w-7xl px-6 py-20 md:px-10">
         <div className="rounded-[2rem] border-2 border-[#F2C94C] bg-[#F2C94C]/10 p-6 md:p-10">
           <h2 className="text-3xl font-semibold md:text-5xl">Formulários e próximos passos</h2>
-          <p className="mt-4 max-w-3xl text-white/75">
+          ...//<p className="mt-4 max-w-3xl text-white/75">
             Para manter o site mais limpo, objetivo e profissional, os formulários ficam em links separados. Assim, cada público entra pela porta certa e segue uma jornada mais clara de conversão.
-          </p>
+          </p>//...
 
           <div className="mt-10 grid gap-6 md:grid-cols-2">
             <div className="rounded-[1.75rem] border-2 border-[#2F80ED] bg-black/40 p-6">
