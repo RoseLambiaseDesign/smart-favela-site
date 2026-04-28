@@ -7,11 +7,9 @@ export default function SmartFavelaSite() {
 
   const companyFormLink =
     "https://docs.google.com/forms/d/e/1FAIpQLSf5gVrIXly4JvUlvbgq12jJughS3tGxhliysofbfZtgtCo5ww/viewform";
-
-  const projectFormLink =
-    "https://docs.google.com/forms/d/e/1FAIpQLSf5gVrIXly4JvUlvbgq12jJughS3tGxhliysofbfZtgtCo5ww/viewform";
-
-    const linkedinLink =
+const projectFormLink =
+https://docs.google.com/forms/d/e/1FAIpQLSfxPD2c8pmgHCo_1tbIDtLS_2IeRkKXEEskFGfetzaxgEqO4Q/viewform?usp=header
+const linkedinLink =
   "https://www.linkedin.com/company/smartfavelalab/";
   const ecosystem = [
     "Empresas",
