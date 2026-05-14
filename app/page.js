@@ -115,7 +115,7 @@ export default function SmartFavelaSite() {
               <div className="text-2xl font-semibold tracking-wide md:text-4xl">
                 SMART FAVELA <span className="align-top text-sm">®</span>
               </div>
-              <div className="mt-1 text-sm text-white/60 md:text-base">smartfavela.com</div>
+              <div className="mt-1 text-sm text-white/60 md:text-base">smartfavela.com.br</div>
             </div>
           </div>
 
@@ -399,7 +399,7 @@ export default function SmartFavelaSite() {
           <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
             <div>
               <div className="text-3xl font-semibold">SMART FAVELA <span className="align-top text-sm">®</span></div>
-              <div className="mt-2 text-white/60">smartfavela.com • rosangela@smartfavelalab.com</div>
+              <div className="mt-2 text-white/60">smartfavela.com.br • rosangela@smartfavelalab.com</div>
             </div>
             <div className="flex flex-wrap gap-3">
               <a href={whatsappLink} className={`${buttonBase} border border-white/15 text-white hover:bg-white hover:text-black focus:ring-white`}>Falar no WhatsApp</a>
